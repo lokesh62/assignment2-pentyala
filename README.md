@@ -8,7 +8,10 @@ i love **beaches** and it has a lot of beaches and the **sunset** is lovely to w
 2. flight to new york
 3. bus to times square via Grand Central Parkway
 
-
+#  unordered list
+* camera
+* shorts 
+* t-shirts
 
    
 
