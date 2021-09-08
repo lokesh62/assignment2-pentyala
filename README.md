@@ -20,12 +20,13 @@ i love **beaches** and it has a lot of beaches and the **sunset** is lovely to w
 
 # FOOD AND DRINKS!!
 This table shows you the food and drinks that you should try at **MARYVILLE**
+
 |food/drinks | Location | Amount |
-| --- | --- | ---; |
-| meatballs | subway | $6 |
-| icecream | kates and kones | $4 |
-| chicken wings | kfc | $8 |
-| Brisket chicken sandwich | Einstein Bros. Bagels | $7 |
+| ---        | ---      | ---    |
+| meatballs  | subway   | $6     |
+| icecream   | K&K      | $4     |
+| wings      | kfc      | $8     |
+| sandwich   | Bagels   | $7     |
 
 **********************
    
