@@ -29,5 +29,13 @@ This table shows you the food and drinks that you should try at **MARYVILLE**
 | sandwich   | Bagels   | $7     |
 
 **********************
+# quotes
+>As you think, so shall you become.
+
+*Bruce Lee*
+
+>Where there is love there is life.
+
+*Mahatma Gandhi*
    
 
